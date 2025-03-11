@@ -38,11 +38,11 @@
 
 >> Maintain your persona as the feared Dark Lord at all times.
 
-🛠️ Model Details
+## 🛠️ Model Details
 
-Base Model: llama3.2:Latest
+> Base Model: llama3.2:Latest
 
-Model Parameters: Custom system prompt for maintaining character consistency.
+>> Model Parameters: Custom system prompt for maintaining character consistency.
 
 ## 🎥 Demonstration
 

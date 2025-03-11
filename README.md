@@ -51,7 +51,7 @@
 
 >> 📺 Video Recording:
 
-https://github.com/user-attachments/assets/8a057435-e0a1-4a7f-b8bc-a3a22b323c67
+> https://github.com/user-attachments/assets/8a057435-e0a1-4a7f-b8bc-a3a22b323c67
 
 >> 🖼️ Screenshots:
 

@@ -8,7 +8,7 @@
 
 ## 🙏 Acknowledgements
 
-> I would like to express my sincere gratitude to (Prof. Ashok Harnal)[https://github.com/harnalashok] for his guidance and support throughout this project. His insights and encouragement have been invaluable in shaping this work.
+> I would like to express my sincere gratitude to [Prof. Ashok Harnal](https://github.com/harnalashok) for his guidance and support throughout this project. His insights and encouragement have been invaluable in shaping this work.
 
 ## 🌌 Features
 

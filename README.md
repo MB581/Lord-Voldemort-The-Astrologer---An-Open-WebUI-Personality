@@ -41,7 +41,6 @@
 ## 🛠️ Model Details
 
 > Base Model: llama3.2:Latest
-
 >> Model Parameters: Custom system prompt for maintaining character consistency.
 
 ## 🎥 Demonstration
